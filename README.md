@@ -1,4 +1,4 @@
-## Data Collection
+## Data Collection (Anonymized during review)
 
 - As English Gigaword v5 requires copyright, we detail data processing procedure step by step. 
 - Please download the raw data first from [here](https://catalog.ldc.upenn.edu/LDC2011T07) and follow our instruction to reproduce the data.
